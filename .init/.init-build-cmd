@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tic-tac-toe-online-1478-1488/database"
+}
